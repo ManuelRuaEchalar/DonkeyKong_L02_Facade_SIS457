@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DonkeyKong_L02",
+			"Path": "C:\\Users\\jruae\\Documents\\Unreal Projects\\DonkeyKong_L02_AbstractFactory-main\\Source\\DonkeyKong_L02.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DonkeyKong_L02Editor",
+			"Path": "C:\\Users\\jruae\\Documents\\Unreal Projects\\DonkeyKong_L02_AbstractFactory-main\\Source\\DonkeyKong_L02Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

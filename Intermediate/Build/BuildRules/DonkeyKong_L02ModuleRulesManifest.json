@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\jruae\\Documents\\Unreal Projects\\DonkeyKong_L02_AbstractFactory-main\\Source\\DonkeyKong_L02\\DonkeyKong_L02.Build.cs",
+		"C:\\Users\\jruae\\Documents\\Unreal Projects\\DonkeyKong_L02_AbstractFactory-main\\Source\\DonkeyKong_L02.Target.cs",
+		"C:\\Users\\jruae\\Documents\\Unreal Projects\\DonkeyKong_L02_AbstractFactory-main\\Source\\DonkeyKong_L02Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
